@@ -34,7 +34,7 @@ struct Colors {
                 [CollectionViewCellModel(color: UIColor.colorFromHex("#FFE4B5"), name: "Moccasin"),
                  CollectionViewCellModel(color: UIColor.colorFromHex("#AFEEEE"), name: "Pale Turquoise"),
                  CollectionViewCellModel(color: UIColor.colorFromHex("#9400D3"), name: "Dark Violet"),
-                 CollectionViewCellModel(color: UIColor.colorFromHex("3CB371"), name: "Medium Sea Green")]
+                 CollectionViewCellModel(color: UIColor.colorFromHex("#3CB371"), name: "Medium Sea Green")]
             ]),
         TableViewCellModel(
             category: "Category #3",
